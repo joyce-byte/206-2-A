@@ -1,0 +1,12 @@
+hr{
+    height: 2px;  
+    background-color: #4B895A;  
+    border: none;  
+}
+#left-bar{
+    background-color: #F7F3F3;
+    border-radius: 5%;
+}
+#footer{
+    background-color:#4B895A ;
+}
